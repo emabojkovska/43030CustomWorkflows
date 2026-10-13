@@ -1,0 +1,2 @@
+GitHub Actions makes it easy to automate software workflows.
+This file contains raw data that is analysed for vowel frequency.
